@@ -1,0 +1,6 @@
+*.mod
+*.o
+solveur
+temps_en_fon_temps
+plot_all.gp
+evolution_temperature.gif
