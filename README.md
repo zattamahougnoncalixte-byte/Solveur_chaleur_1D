@@ -65,5 +65,5 @@ Le solveur génère :
 
 ## Auteur
 
-**Mahougnon Calixte ZATTA**  
+**Calixte Mahougnon ZATTA**  
 UNSTIM — Génie Mathématique et Modélisation
